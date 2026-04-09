@@ -77,12 +77,13 @@ Rscript scripts/plot.R
 
 ## 📊 Outputs
 
-- Manhattan plot  
-- QQ plot  
+![Manhattan](results/plots/manhattan_plot.png)
+**Figure 1. Manhattan Plot**  
 
-Saved in:
+---
 
-‘results/plots/‘
+![QQ](results/plots/qq_plot.png)
+**Figure 2. QQ Plot**  
 
 ---
 
