@@ -1,0 +1,26 @@
+PLINK v1.9.0-b.8 64-bit (22 Oct 2024)
+Options in effect:
+  --dummy 1000 10000
+  --make-bed
+  --out gwas_demo
+
+Hostname: 07-G3-80863-22
+Working directory: /Users/u5502376/Documents/Github/gwas-pipeline-demo
+Start time: Thu Apr  9 15:20:54 2026
+
+Random number seed: 1775744454
+16384 MB RAM detected; reserving 8192 MB for main workspace.
+Dummy data (1000 people, 10000 SNPs) written to gwas_demo-temporary.bed +
+gwas_demo-temporary.bim + gwas_demo-temporary.fam .
+10000 variants loaded from .bim file.
+1000 people (0 males, 1000 females) loaded from .fam.
+1000 phenotype values loaded from .fam.
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 1000 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is exactly 1.
+10000 variants and 1000 people pass filters and QC.
+Among remaining phenotypes, 518 are cases and 482 are controls.
+--make-bed to gwas_demo.bed + gwas_demo.bim + gwas_demo.fam ... done.
+
+End time: Thu Apr  9 15:20:54 2026
