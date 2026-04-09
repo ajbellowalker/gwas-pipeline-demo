@@ -37,12 +37,12 @@ This project demonstrates a basic genome-wide association study (GWAS) pipeline 
 ## 📁 Structure
 
 gwas-pipeline-demo/
-├── data/
-├── scripts/
-├── results/
-│   ├── plots/
-│   └── tables/
-├── docs/
+├── data/  
+├── scripts/  
+├── results/  
+│   ├── plots/  
+│   └── tables/  
+├── docs/  
 └── README.md
 
 ---
